@@ -140,6 +140,8 @@ img {
 .link-custom {
     font-weight: 700;
     position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .link-custom::after {
@@ -242,6 +244,11 @@ img {
     width: 20px;
     height: 20px;
 }
+/*----------------- Work ----------------------*/
+
+
+
+
 
 /*----------------- Grid Gallery ----------------*/
 .grid-gallery {
