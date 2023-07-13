@@ -215,7 +215,7 @@ img {
     align-items: center;
     justify-content: center;
     background-color: var(--color-base);
-    border-radius: 100px;
+    /* border-radius: 10px; */
     font-size: 50px;
 }
 .skills-icons img {
@@ -225,8 +225,10 @@ img {
     align-items: center;
     justify-content: center;
     background-color: var(--color-base);
-    border-radius: 100px;
+    border-radius: 20px;
     padding: 10px;
+    margin-inline: 2px;
+    margin-bottom: 10px;
 }
 /*----------------- Technologies Icons ----------------------*/
 .img-trans {
