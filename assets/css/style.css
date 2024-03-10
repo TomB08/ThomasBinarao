@@ -4,9 +4,9 @@
     --color-body: #fffefe;
     --color-heading: #eef3db;
     --color-base: #5c3535;
-    --color-base2: #3d252d;
+    --color-base2: #431f1f;
     --color-brand: #ffc400;
-    --color-brand2: #fff59f;
+    --color-brand2: #f7ffff;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
 }
@@ -209,8 +209,8 @@ img {
     font-size: 24px;
 }
 .skills-icons a {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -219,8 +219,8 @@ img {
     font-size: 50px;
 }
 .skills-icons img {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
